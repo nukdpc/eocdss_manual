@@ -1,8 +1,10 @@
 language: node_js
 node_js:
-  - '8'
+  - lts/*
 before_install:
   - npm add -D vuepress
+install:
+  - npm ci
 script:
   - npm run docs:build
 deploy:
