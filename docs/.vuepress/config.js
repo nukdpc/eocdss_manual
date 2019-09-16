@@ -6,6 +6,7 @@ module.exports = {
     themeConfig: {
       sidebarDepth: 0,
       sidebar: [
+        ['/基本介紹/手冊說明', '手冊說明'],
         {
           title: '情資網基本介紹',
           path: '/',
