@@ -1,6 +1,6 @@
 module.exports = {
-    title: '高雄市災害情資網操作手冊',
-    description: '高雄市災害情資網操作手冊',
+    title: '高雄市災害情資網使用手冊',
+    description: '高雄市災害情資網使用手冊',
     base: '/eocdss_manual/',
     repo: 'https://github.com/nukdpc/eocdss_manual',
     themeConfig: {
@@ -97,7 +97,7 @@ module.exports = {
         },
       ],
       nav: [
-        { text: 'Home', link: '/' },
+        { text: '首頁', link: '/' },
         { text: '高雄市災害情資網', link: 'http://eocdss1.ncdr.nat.gov.tw/web/ot/ku'},
         { text: 'Github', link: 'https://github.com/nukdpc/eocdss_manual' }
       ]
