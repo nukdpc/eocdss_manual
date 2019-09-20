@@ -10,7 +10,7 @@ module.exports = {
         {
           title: '情資網基本介紹',
           path: '/基本介紹/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/基本介紹/進入方法',
             '/基本介紹/進入畫面及登入方式',
@@ -20,7 +20,7 @@ module.exports = {
         {
           title: '氣象即時資訊',
           path: '/氣象即時資訊/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/氣象即時資訊/綜合研判指標',
             '/氣象即時資訊/颱風路徑',
@@ -39,7 +39,7 @@ module.exports = {
         {
           title: '預報與警戒',
           path: '/預報與警戒/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/預報與警戒/示警燈號',
             '/預報與警戒/定量降水預報',
@@ -53,7 +53,7 @@ module.exports = {
         {
           title: '災害潛勢地圖',
           path: '/災害潛勢地圖/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/災害潛勢地圖/工業管線潛勢地圖',
             '/災害潛勢地圖/海嘯溢淹潛勢地圖',
@@ -67,7 +67,7 @@ module.exports = {
         {
           title: '防災能量',
           path: '/防災能量/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/防災能量/防災能量地圖',
           ]
@@ -75,7 +75,7 @@ module.exports = {
         {
           title: '歷史災害事件',
           path: '/歷史災害事件/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/歷史災害事件/107年豪雨事件',
             '/歷史災害事件/108年豪雨事件',
@@ -87,7 +87,7 @@ module.exports = {
         {
           title: '應變中心',
           path: '/應變中心/',
-          collapsable: false,
+          collapsable: true,
           children: [
             '/應變中心/好理災',
             '/應變中心/災情監控CCTV',
