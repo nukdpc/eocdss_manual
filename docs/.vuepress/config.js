@@ -99,7 +99,7 @@ module.exports = {
       nav: [
         { text: '首頁', link: '/' },
         { text: '高雄市災害情資網', link: 'http://eocdss1.ncdr.nat.gov.tw/web/ot/ku'},
-        { text: 'Github', link: 'https://github.com/nukdpc/eocdss_manual' }
+        { text: 'Github', link: 'https://github.com/nukdpc/eocdss_manual/releases' }
       ]
     }
   }
